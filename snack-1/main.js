@@ -5,4 +5,4 @@ do {
     numbers.push(number)
     sum += number
 } while (sum < 50)
-console.log(numbers)
+console.log(numbers, sum)
